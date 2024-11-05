@@ -1,2 +1,2 @@
-# myPorfolio
-My Porfolio Tu Lam
+# My Portfolio
+Hello, my name is Tu Lam. 
